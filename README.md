@@ -3,7 +3,7 @@
  **Hi, My name is Monica Yadav**,
   > I have decided to do this challenge in order to improve my coding skills by making coding a habit in these 100 days.
     And i'm hoping to learn some new things from the coding community.
-
+* [Log - click here to see my progress](log.md)
 ## If you've decided to join:
 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
