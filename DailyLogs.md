@@ -10,7 +10,7 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 ### Day 1: February 16, 2022 
 ##### 
 
-**Today's Progress**: started learning basic concepts of javascripts.:sweat_smile:
+**Today's Progress**: started learning basic concepts of javascripts.
 
 **Thoughts:** I really struggled with css,today but i still managed to prepare a small javascript project called Color Flipper. basically on btn click it changes the background color of the page with 2 different method 1 way is from the array of color and 2 way randomly generated Hex code.	:innocent:
 <p align="center">
