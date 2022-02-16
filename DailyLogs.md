@@ -1,4 +1,4 @@
-### Day 0: February 16, 2022 
+### Day 0: February 15, 2022 
 ##### 
 
 **Today's Progress**: created this repo to commit to this challenge.:sweat_smile:
@@ -6,4 +6,15 @@
 **Thoughts:** I really struggled with Social media challenges, but, overall, I feel like I am slowly getting better at it.This is still new for me, 
 but I managed to figure out some basic functionality and I have a kinda roadmap in my mind - starting with my side-project and then learn more about 
 *js* and will continue to practice *SQL on hackerrank* . For now i think i have a good start .	:innocent:
+
+### Day 1: February 16, 2022 
+##### 
+
+**Today's Progress**: started learning basic concepts of javascripts.:sweat_smile:
+
+**Thoughts:** I really struggled with css,today but i still managed to prepare a small javascript project called Color Flipper. basically on btn click it changes the background color of the page with 2 different method 1 way is from the array of color and 2 way randomly generated Hex code.	:innocent:
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45056329/154337634-66562a24-84a7-4f2e-9dcb-8d52fc16398c.gif" width="250" height="250" align="center"/>
+</p>
+
 
