@@ -26,3 +26,18 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45056329/154523539-392082af-dc68-48bc-a6c2-7ce743d9a51f.gif" width="600" height="300" align="center"/>
 </p>
+### Day 3: February 18, 2022 
+##### 
+
+**Today's Progress**: Created a Stopwatch using javascript
+
+**Thoughts:** Learn many new concepts in js today.being a CS graduate i don't find js that hard to learn .To Challenge myself i did some of the Js problem on hackerrank today.simultaneously i'm also solving some SQL query on it .  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45056329/154705753-cbb8b066-afdf-41b6-8c62-eb0423636d58.gif" width="600" height="300" align="center"/>
+</p>
+
+
+
+
+
+
