@@ -45,6 +45,10 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 **Thoughts:** just had a slow weekend , didn't feel like working on hard challenges today 
 
 
+### Day 5: February 20, 2022 
+##### 
+
+**Today's Progress**: Solved some js challenges on hackerrank.com
 
 
 
