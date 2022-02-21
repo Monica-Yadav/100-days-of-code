@@ -51,5 +51,15 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 **Today's Progress**: Solved some js challenges on hackerrank.com
 
 
+### Day 6: February 21, 2022 
+##### 
+
+**Today's Progress**: Made a Random Password Generator using javascripts basic functions
+
+**Thoughts:** : feeling little overwhelmed with all the work stuff, doing this is actually helping me relax my mind 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45056329/154986336-8635a785-5275-45a9-8813-3b89f81744f8.gif" width="600" height="300" align="center"/>
+</p>
 
 
