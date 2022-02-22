@@ -62,4 +62,10 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 <img src="https://user-images.githubusercontent.com/45056329/154986336-8635a785-5275-45a9-8813-3b89f81744f8.gif" width="600" height="300" align="center"/>
 </p>
 
+### Day 7: February 22, 2022 
+##### 
+
+**Today's Progress**: Solved some JS challenges also planning to start with DSA 
+
+**Thoughts:** : Enrolled myself into the a DSA learning class might sound like a good idea for now will give more thought to it.
 
