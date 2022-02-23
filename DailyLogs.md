@@ -72,4 +72,7 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 ### Day 8: February 23, 2022 
 ##### 
 
-**Today's Progress**: 
+**Today's Progress**: Did some work related stuff <can't mention it here>
+
+**Thoughts:** : I'm tired .
+
