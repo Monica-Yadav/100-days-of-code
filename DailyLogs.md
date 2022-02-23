@@ -69,3 +69,7 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 
 **Thoughts:** : Enrolled myself into the a DSA learning class might sound like a good idea for now will give more thought to it.
 
+### Day 8: February 23, 2022 
+##### 
+
+**Today's Progress**: 
