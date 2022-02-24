@@ -76,3 +76,9 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 
 **Thoughts:** : I'm tired .
 
+### Day 9: February 23, 2022 
+##### 
+
+**Today's Progress**: Did same work related stuff <can't mention it here> but also started with the idea or like designing part for the portfolio
+
+**Thoughts:** : I'm tired .
