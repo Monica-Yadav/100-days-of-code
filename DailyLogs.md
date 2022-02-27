@@ -103,7 +103,9 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 
 ##### 
 
-**Today's Progress**:Did some CSS and Html code for the website 
+**Today's Progress**:Did some CSS and Html js code , to make this lame jokes website.
 
+**Thoughts:** : i was feeling down , this surely cheered me up 
 
-**Thoughts:** : i need to find more resources for the design and color
+https://user-images.githubusercontent.com/45056329/155893640-5b276530-477c-4ae9-9109-3c2be0a56017.mp4
+
