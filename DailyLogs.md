@@ -82,11 +82,13 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 **Today's Progress**: Did same work related stuff <can't mention it here> but also started with the idea or like designing part for the portfolio
 !
 **Thoughts:** : I'm excited to finally start with website, but still clueless about most of the stuffs .
+
 ## Day 10: February 25, 2022 
 
 ##### 
 
 **Today's Progress**:
+
 **Thoughts:** : I'm tired .
 
 ## Day 11: February 26, 2022 
@@ -94,6 +96,7 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 ##### 
 
 **Today's Progress**:Did some CSS and Html code for the website 
+
 **Thoughts:** : i need to find more resources for the design and color
 
 ## Day 12: February 27, 2022 
@@ -101,4 +104,6 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 ##### 
 
 **Today's Progress**:Did some CSS and Html code for the website 
+
+
 **Thoughts:** : i need to find more resources for the design and color
