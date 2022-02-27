@@ -96,3 +96,9 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 **Today's Progress**:Did some CSS and Html code for the website 
 **Thoughts:** : i need to find more resources for the design and color
 
+## Day 12: February 27, 2022 
+
+##### 
+
+**Today's Progress**:Did some CSS and Html code for the website 
+**Thoughts:** : i need to find more resources for the design and color
