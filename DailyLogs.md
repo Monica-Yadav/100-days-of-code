@@ -107,5 +107,8 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 
 **Thoughts:** : i was feeling down , this surely cheered me up 
 
-https://user-images.githubusercontent.com/45056329/155893640-5b276530-477c-4ae9-9109-3c2be0a56017.mp4
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45056329/155893798-714c6a11-b4aa-437a-9ca3-1ec30e7fd1e1.gif" width="600" height="300" align="center"/>
+</p>
+
 
