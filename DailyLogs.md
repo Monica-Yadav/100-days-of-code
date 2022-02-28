@@ -7,6 +7,7 @@
 but I managed to figure out some basic functionality and I have a kinda roadmap in my mind - starting with my side-project and then learn more about 
 *js* and will continue to practice *SQL on hackerrank* . For now i think i have a good start .	:innocent:
 
+
 ### Day 1: February 16, 2022 
 ##### 
 
@@ -16,6 +17,7 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45056329/154337634-66562a24-84a7-4f2e-9dcb-8d52fc16398c.gif" width="300" height="300" align="center"/>
 </p>
+
 
 ### Day 2: February 17, 2022 
 ##### 
@@ -36,6 +38,8 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45056329/154705753-cbb8b066-afdf-41b6-8c62-eb0423636d58.gif" width="600" height="300" align="center"/>
 </p>
+
+
 
 ### Day 4: February 19, 2022 
 ##### 
