@@ -103,7 +103,7 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 
 **Thoughts:** : i need to find more resources for the design and color
 
-## Day 12: February 27, 2022 
+## Day 12: February 27, 202
 
 ##### 
 
