@@ -158,3 +158,5 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 **Thoughts:** : i was feeling down , lots of office work 
 
 i am lazy in updating this 
+
+burn out today
