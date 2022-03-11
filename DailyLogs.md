@@ -157,6 +157,33 @@ but I managed to figure out some basic functionality and I have a kinda roadmap 
 
 **Thoughts:** : i was feeling down , lots of office work 
 
-i am lazy in updating this 
 
-burn out today
+## Day 18: March 5, 2022 
+##### 
+
+**Today's Progress**:Did some CSS and Html js code ,Learnt about Control M and Abinitio ETL tool 
+
+**Thoughts:** : i was feeling down , lots of office work 
+
+
+## Day 19: March 6, 2022 
+##### 
+
+**Today's Progress**:Did some CSS and Html js code ,Learnt about Control M and Abinitio ETL tool 
+
+**Thoughts:** : i was feeling down , lots of office work 
+
+## Day 20: March 7, 2022 
+##### 
+
+**Today's Progress**:Did some CSS and Html js code ,Learnt about Control M and Abinitio ETL tool 
+
+**Thoughts:** : i was feeling down , lots of office work 
+
+
+## Day 21: March 8, 2022 
+##### 
+
+**Today's Progress**:Did some CSS and Html js code ,Learnt about Control M and Abinitio ETL tool 
+
+**Thoughts:** : i was feeling down , lots of office work 
