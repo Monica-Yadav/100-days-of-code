@@ -10,7 +10,10 @@ but I managed to figure out some basic functionality and I
 ave a kinda roadmap in my mind - starting with my side-project and then learn more about 
 *js* and will continue to practice *
 
-SQL on hackerrank* . For now i think i have a good start .	:innocent:
+SQL on hackerrank* . For now i 
+
+
+think i have a good start .	:innocent:
 
 
 ### Day 1: February 16, 2022 
