@@ -7,6 +7,8 @@
 but I managed to figure out some basic functionality and I 
 
 
+
+tgj
 ave a kinda roadmap in my mind - starting with my side-project and then learn more about 
 *js* and will continue to practice *
 
